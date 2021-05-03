@@ -20,6 +20,11 @@ Pick a Kaggle competition from the following list. You have the choice of comple
 - [What's Cooking?](https://www.kaggle.com/c/whats-cooking)
 - [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/)
 
+### Image Classification
+
+- [Kannada MNIST](https://www.kaggle.com/c/Kannada-MNIST)
+- [Intel Image Classification](https://www.kaggle.com/puneet6060/intel-image-classification)
+
 ## Timeline
 - **9:00am** - Project introduction & team assignment
 - **10:00am** - Slack Gwen/Charlie/Heather what competition/dataset you've chosen (only one person needs to do this). Make sure the entire group is satisfied with the choice.
