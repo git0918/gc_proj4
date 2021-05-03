@@ -1,6 +1,6 @@
 # Project 4: Team Git Hackathon
 
-Pick a Kaggle competition from the following list. You have the choice of completing a regression problem, a classification problem, or an NLP problem involving either classification or sentiment analysis.
+learn github. Pick a Kaggle competition from the following list. You have the choice of completing a regression problem, a classification problem, or an NLP problem involving either classification or sentiment analysis.
 
 ## Options
 ### Regression
